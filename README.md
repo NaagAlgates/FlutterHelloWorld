@@ -1,6 +1,6 @@
-# helloworld
+# HelloWorld
 
-A new Flutter application.
+A new Flutter Hello World application.
 
 ## Getting Started
 
